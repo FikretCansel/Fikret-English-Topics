@@ -28,40 +28,40 @@
 
 # Vocabulary Fill-in-the-Blank Exercises
 
-1. We have a short \_\_\_\_\_\_\_\_\_\_ every morning to share updates on our work.
-   *(Hint: A daily meeting to discuss progress)*
+1. The product \_\_\_\_\_\_\_\_\_\_ outlines the features planned for the next two quarters.
 
-2. The team cannot proceed because there is a \_\_\_\_\_\_\_\_\_\_ in the API integration.
+2. The final \_\_\_\_\_\_\_\_\_\_ for this sprint is the updated user interface and documentation.
 
-3. The project manager is working hard to remove all \_\_\_\_\_\_\_\_\_\_ that block the team's progress.
+3. We need to \_\_\_\_\_\_\_\_\_\_ urgent bugs first to avoid delays in the release.
 
-4. This task has a \_\_\_\_\_\_\_\_\_\_ on the completion of the database migration.
+4. The team cannot proceed because there is a \_\_\_\_\_\_\_\_\_\_ in the API integration.
 
-5. Before we continue, let's make sure there is full \_\_\_\_\_\_\_\_\_\_ on the project requirements.
+5. If a problem cannot be solved quickly, we should \_\_\_\_\_\_\_\_\_\_ it to senior management.
 
-6. The final \_\_\_\_\_\_\_\_\_\_ for this sprint is the updated user interface and documentation.
+6. The project manager is working hard to remove all \_\_\_\_\_\_\_\_\_\_ that block the team's progress.
 
-7. The product \_\_\_\_\_\_\_\_\_\_ contains all pending tasks that need to be addressed.
+7. We have a short \_\_\_\_\_\_\_\_\_\_ every morning to share updates on our work. (Hint: A daily meeting to discuss progress)
 
-8. We need to \_\_\_\_\_\_\_\_\_\_ urgent bugs first to avoid delays in the release.
+8. Before we continue, let's make sure there is full \_\_\_\_\_\_\_\_\_\_ on the project requirements.
 
 9. Unplanned changes to the project scope can cause \_\_\_\_\_\_\_\_\_\_, which delays delivery.
 
-10. Despite some challenges, the project is still \_\_\_\_\_\_\_\_\_\_ to meet the deadline.
+10. Our team's \_\_\_\_\_\_\_\_\_\_ has increased, allowing us to complete more tasks per sprint.
 
-11. The product \_\_\_\_\_\_\_\_\_\_ outlines the features planned for the next two quarters.
+11. This task has a \_\_\_\_\_\_\_\_\_\_ on the completion of the database migration.
 
-12. It is important to keep all \_\_\_\_\_\_\_\_\_\_ informed about the project's progress.
+12. Quick \_\_\_\_\_\_\_\_\_\_ of blockers helps keep the project moving smoothly.
 
-13. We organized our kanban board into different \_\_\_\_\_\_\_\_\_\_ to better visualize workflow.
+13. The product \_\_\_\_\_\_\_\_\_\_ contains all pending tasks that need to be addressed.
 
-14. Our team's \_\_\_\_\_\_\_\_\_\_ has increased, allowing us to complete more tasks per sprint.
+14. It is important to keep all \_\_\_\_\_\_\_\_\_\_ informed about the project's progress.
 
-15. Quick \_\_\_\_\_\_\_\_\_\_ of blockers helps keep the project moving smoothly.
+15. Despite some challenges, the project is still \_\_\_\_\_\_\_\_\_\_ to meet the deadline.
 
-16. To \_\_\_\_\_\_\_\_\_\_ potential security risks, we performed a thorough code review.
+16. We organized our kanban board into different \_\_\_\_\_\_\_\_\_\_ to better visualize workflow.
 
-17. If a problem cannot be solved quickly, we should \_\_\_\_\_\_\_\_\_\_ it to senior management.
+17. To \_\_\_\_\_\_\_\_\_\_ potential security risks, we performed a thorough code review.
+
 
 
 
@@ -379,3 +379,26 @@ Perfect. Thanks for the detailed update, Fikret. Keep up the good work!
 * Learn and practice advanced vocabulary related to daily meetings and project management.
 * Improve your ability to describe progress, problems, and plans clearly in English.
 * Gain confidence in participating actively in your team’s stand-up meetings.
+
+
+Answers:
+
+Fill in the blans
+1. roadmap
+2. deliverable
+3. prioritize
+4. roadblock
+5. escalate
+6. impediments
+7. stand-up meeting
+8. alignment
+9. scope creep
+10. velocity
+11. dependency
+12. blocker resolution
+13. backlog
+14. stakeholders
+15. on track
+16. swimlanes
+17. mitigate
+
