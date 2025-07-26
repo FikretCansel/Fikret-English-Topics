@@ -26,10 +26,6 @@
 
 ---
 
-Tabii Fikret! İşte yukarıdaki kelimelerle ilgili **boşluk doldurma (fill-in-the-blank) örnekleri**. Bu egzersizler hem kelime bilgisini hem cümle içindeki kullanımını pekiştirir.
-
----
-
 # Vocabulary Fill-in-the-Blank Exercises
 
 1. We have a short \_\_\_\_\_\_\_\_\_\_ every morning to share updates on our work.
